@@ -74,17 +74,9 @@
 						0 12px 5px rgba(0, 0, 0, 0.1);
 					animation: rotate ease-in-out 1s infinite alternate;
 				}
-
-				p {
-					font-size: 16px;
-                    position: absolute;
-                    bottom: 2.4rem;
-					animation: 3s ease 0s normal forwards 1 fadeIn;
-				}
 			</style>
 			<div class="container">
 				<h1>Today I learned</h1>
-				<p>@pyadav</p>
 			</div>
 		</div>
 	</foreignObject>

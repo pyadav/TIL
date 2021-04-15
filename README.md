@@ -8,5 +8,6 @@
 
 ## CSS
 - [How To Use CSS Custom Properties](./css/14042021_CSS_Custom_Properties.md)
+- [SVG Animation With CSS](./css/15042021_SVG_Animation_With_CSS.md)
 ## Kubernetes
 - [Kubernetes Local Cluster Setup](./kubernetes/15042021_Kubernetes_Local_Cluster_Setup.md)

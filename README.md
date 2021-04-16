@@ -8,6 +8,9 @@
 
 ## CSS
 - [How To Use CSS Custom Properties](./css/14042021_CSS_Custom_Properties.md)
-- [SVG Animation With CSS](./css/15042021_SVG_Animation_With_CSS.md)
+
+## React
+- [TypeScript With styled-components ](./react/16042021_TypeScript_With_Styled-components.md)
 ## Kubernetes
+- [SVG Animation With CSS](./css/15042021_SVG_Animation_With_CSS.md)
 - [Kubernetes Local Cluster Setup](./kubernetes/15042021_Kubernetes_Local_Cluster_Setup.md)
